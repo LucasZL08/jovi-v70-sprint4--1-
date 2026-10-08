@@ -41,13 +41,6 @@ npm run dev
 
 Abra no navegador o endereço exibido no terminal (normalmente `http://localhost:5173`).
 
-Para gerar a versão de produção e testá-la localmente:
-
-```bash
-npm run build
-npm run preview
-```
-
 ## Como executar os servidores
 
 O projeto **não possui back-end**: é apenas front-end. O formulário de contato apenas simula o envio (não grava nem envia os dados).
