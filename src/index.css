@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --color-fundo: #121214;
+  --color-superficie: #202024;
+  --color-cartao: #29292e;
+  --color-roxo: #8257e5;
+  --color-roxo-claro: #996dff;
+  --color-roxo-forte: #4d02fd;
+  --color-verde: #04d361;
+  --color-cinza: #8d8d99;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-fundo);
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
