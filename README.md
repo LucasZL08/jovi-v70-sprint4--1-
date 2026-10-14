@@ -4,7 +4,7 @@ Landing page do **Jovi-v70**, aplicativo focado na produtividade dos estudantes 
 Este projeto é a **evolução da Sprint 03**: a landing page em HTML/CSS foi migrada para **React** e estilizada com **Tailwind CSS**.
 
 🔗 **Deploy na Vercel:** https://jovi-v70-sprint4-1.vercel.app/
-🔗 **Repositório Git:** https://github.com/SEU-USUARIO/SEU-REPOSITORIO
+🔗 **Repositório Git:** https://github.com/LucasZL08/jovi-v70-sprint4--1-
 
 ## Tecnologias utilizadas
 
